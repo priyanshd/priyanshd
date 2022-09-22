@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Priyansh Dakoor, from India. I'm a backend developer and currently develop with Java + Spring Boot stack. 
+
+Here's a list of the projects that I've worked on:
