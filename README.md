@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 I'm Priyansh Dakoor, from India. I'm a backend developer and currently develop with the Java + Spring Boot stack. 
 
 I'm passionate about Microservices, and I'm currently working on turning a monolith project in a Microservices oriented one.
-
-Here's a list of the projects that I've worked on:
